@@ -10,7 +10,6 @@ Meu foco atualmente está em desenvolvimento Web Front-end
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RayssaMaria&show_icons=true&theme=blue-green">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RayssaMaria&layout=compact&theme=blue-green"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RayssaMaria&layout=compact&theme=blue-green"/>
   
 </div>
 
